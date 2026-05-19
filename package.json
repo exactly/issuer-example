@@ -8,6 +8,7 @@
     "viem": "^2.50.4"
   },
   "devDependencies": {
+    "ox": "^0.14.22",
     "typescript": "^6.0.3",
     "tsx": "^4.22.3"
   }
