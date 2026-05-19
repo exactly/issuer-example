@@ -1,0 +1,14 @@
+{
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "run": "tsx index.ts"
+  },
+  "dependencies": {
+    "viem": "^2.50.4"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "tsx": "^4.22.3"
+  }
+}
